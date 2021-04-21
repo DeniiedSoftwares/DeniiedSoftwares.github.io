@@ -1,7 +1,7 @@
 # DeniiedSoftwares
 Just a small group of software engineers.
 
-##Projects
+## Projects
 ### [GettingFar](https://github.com/DeniiedSoftwares/GettingFar "GettingFar") (Unfinished)
 Defens discord when you get to a certain percentage of a level in Geometry Dash.
 ### [Project-Obama-UI](https://github.com/DeniiedSoftwares/Project-Obama-UI "Project-Obama-UI")
