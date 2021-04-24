@@ -1,9 +1,11 @@
 # DeniiedSoftwares
-Just a small group of software engineers.
+Just a small group of gamer coder pogmen.
 
 ## Projects
 ### [GettingFar](https://github.com/DeniiedSoftwares/GettingFar "GettingFar") (Unfinished)
 Defens discord when you get to a certain percentage of a level in Geometry Dash.
+### [DeniiedSoftware-RPC](https://github.com/DeniiedSoftwares/DeniiedSoftware-RPC "DeniiedSoftware-RPC")
+Give me free advertising yes thank you
 ### [Project-Obama-UI](https://github.com/DeniiedSoftwares/Project-Obama-UI "Project-Obama-UI")
 Project Obama UI is a UI for a tool called [Project Obama](http://obama.移动 "Project Obama"). (Depricated)
 ### [JimmyBrew-IB2-Fork](https://github.com/DeniiedSoftwares/JimmyBrew-IB2-Fork "JimmyBrew-IB2-Fork")
