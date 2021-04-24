@@ -1,2 +1,2 @@
 # DeniiedSoftwares
-### Just a small group of software engineers.
+### Just a small group of gamer coder pogmen.
